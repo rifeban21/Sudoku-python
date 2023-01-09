@@ -4,6 +4,8 @@ Task 2 Sudoku - Project ini semata dikerjakan untuk menjawab test dari Creative 
 
 Program ini dikerjakan dengan menggunakan bahasa pemrograman python dengan berbasis GUI
 
+- Python version : python 3.10.9
+
 
 Kebutuhan library yang diperlukan :
 
