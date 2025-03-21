@@ -1,4 +1,4 @@
-# Project-test-Sudoku
+# Sudoku
 
 
 Program ini dikerjakan dengan menggunakan bahasa pemrograman python dengan berbasis GUI
