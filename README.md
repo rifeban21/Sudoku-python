@@ -1,5 +1,4 @@
-# Project-test-cs-Sudoku
-Task 2 Sudoku - Project ini semata dikerjakan untuk menjawab test dari Creative Station
+# Project-test-Sudoku
 
 
 Program ini dikerjakan dengan menggunakan bahasa pemrograman python dengan berbasis GUI
